@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body style="text-align: center;">
-	<header style="  display: flex; flex-wrap: nowrap;">
+	<header>
 		<h1>Hello, world!</h1>
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Half-Life_lambda_logo.svg/2048px-Half-Life_lambda_logo.svg.png" style="width: 50px; height: 50px;">
 	</header>
@@ -23,8 +23,8 @@
 		</ul>
 		<h2>Github Stats</h2>
 		<div>
-    		<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelreis0x2a&hide_progress=true&theme=aura" alt="ilustração do status do github">
-    		<img width="50%" src="https://github-readme-stats.vercel.app/api?username=bebelreis0x2a&show_icons=true&theme=aura">
+    		<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelreis0x2a&hide_progress=true&theme=aura" alt="ilustração do status do github">
+    		<img width="45%" src="https://github-readme-stats.vercel.app/api?username=bebelreis0x2a&show_icons=true&theme=aura">
 		</div>
 		<br>
    		<div>
