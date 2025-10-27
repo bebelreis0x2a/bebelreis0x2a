@@ -18,7 +18,6 @@
 		student at Instituto Federal Campus Muzambinho. I want improve my C++ skills for game development!</p>
 		<ul>
 	 		<li>🌱 I’m currently learning Bootstrap and C++</li>
-			<li>😄 Pronouns: He/Him</li>
 			<li>⚡ I create games with Love2D, an awesome framework for Lua.</li>
 		</ul>
 		<h2>Github Stats</h2>
