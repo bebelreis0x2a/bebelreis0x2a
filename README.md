@@ -14,8 +14,8 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Half-Life_lambda_logo.svg/2048px-Half-Life_lambda_logo.svg.png" style="width: 50px; height: 50px;">
 	</header>
 	<main>
-		<p>👋 Hi, I’m Gabryel Miranda dos Reis, also known as bebelreis0x2a. I'm a programming
-		student at Instituto Federal Campus Muzambinho. I want improve my C++ skills for game development!</p>
+		<p>👋 Hi, I’m Bebel. I'm a programming
+		student at Instituto Federal Campus Muzambinho. I want improve my PHP skills!</p>
 		<ul>
 	 		<li>🌱 I’m currently learning Bootstrap and C++</li>
 			<li>⚡ I create games with Love2D, an awesome framework for Lua.</li>
