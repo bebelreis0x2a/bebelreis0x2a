@@ -20,11 +20,11 @@
 	 		<li>🌱 I’m currently learning Bootstrap and C++</li>
 			<li>⚡ I create games with Love2D, an awesome framework for Lua.</li>
 		</ul>
-		<h2>Github Stats</h2>
+		<!--<h2>Github Stats</h2>
 		<div>
     		<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelreis0x2a&hide_progress=true&theme=aura" alt="ilustração do status do github">
     		<img width="50%" src="https://github-readme-stats.vercel.app/api?username=bebelreis0x2a&show_icons=true&theme=aura">
-		</div>
+		</div>-->
 		<br>
    		<div>
 			<h2>🔥 Skills</h2>
