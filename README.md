@@ -15,7 +15,7 @@
 	</header>
 	<main>
 		<p>👋 Hi, I’m Bebel. I'm a programming
-		student at Instituto Federal Campus Muzambinho. I want improve my PHP skills!</p>
+		student. I want improve my PHP skills!</p>
 		<ul>
 	 		<li>🌱 I’m currently learning Bootstrap and C++</li>
 			<li>⚡ I create games with Love2D, an awesome framework for Lua.</li>
