@@ -11,7 +11,7 @@
 <body>
 	<header>
 		<h1>Hello, world!</h1>
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Half-Life_lambda_logo.svg/2048px-Half-Life_lambda_logo.svg.png" style="width: 50px; height: 50px;">
+		<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Half-Life_lambda_logo.svg/2048px-Half-Life_lambda_logo.svg.png" style="width: 50px; height: 50px;">-->
 	</header>
 	<main>
 		<p>👋 Hi, I’m soph. I'm a programming
